@@ -41,7 +41,6 @@ HAVING 子句可以让我们筛选分组后的各组数据。
 教材： 查询1与查询2比少了HAVING子句，HAVING 子句可以让我们筛选分组后的各组数据。
 我觉得查询2使用HAVING子句是没有必要的，having与where最大的区别是having 能带聚合函
 数，而where不可以，而索要查询的的没必要使用having字句。
-2.png
 
 设计与分析：
 set autotrace on
